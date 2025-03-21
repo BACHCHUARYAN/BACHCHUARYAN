@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm currently learning on webdev and devops.
 <!--
 **BACHCHUARYAN/BACHCHUARYAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
